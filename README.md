@@ -1,6 +1,6 @@
 # Color App
 
-A simple yet dynamic Android app built with Jetpack Compose that allows users to generate, display, and refresh randomly colored cards. The app demonstrates the use of MVVM architecture, Hilt for dependency injection, and state management with Flow and ViewModel.
+A simple yet dynamic Android app built with Jetpack Compose & MVVM that allows users to add, display, sync Cards to Firebase as well as refresh & reset randomly colored cards.The app demonstrates the use of MVVM architecture, Hilt for dependency injection, and state management with Flow and ViewModel.
 ---
 
 ### Features :
