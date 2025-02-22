@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "734685272532",
+    "firebase_url": "https://janitriassignmentcolorapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "janitriassignmentcolorapp",
+    "storage_bucket": "janitriassignmentcolorapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734685272532:android:10bc99c8c54a9fd659de41",
+        "android_client_info": {
+          "package_name": "com.example.janitriassignmentcolorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiivjaHGBETO9L0ncSfrXnjE1_DhpflXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
